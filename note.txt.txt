@@ -1,0 +1,6 @@
+What is CDN ?
+
+What is crossorigin in <script> tag?
+
+
+React Element : it is a Object
